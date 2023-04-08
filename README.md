@@ -2,6 +2,9 @@
 
 Flutter DropDown Widget
 
+## Screenshots
+<img src="/dropdown_demo.png" height="400px"/> <img src="/screenshots/en_2.png" height="400px"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
